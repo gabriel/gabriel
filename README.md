@@ -1,6 +1,6 @@
 # Gabriel
 
-Public open source projects from [github.com/gabriel](https://github.com/gabriel), grouped by language with **Swift first** (as of 2026-02-16).
+Public open source projects and organizations from [github.com/gabriel](https://github.com/gabriel), grouped by language with **Swift first** (as of 2026-02-16).
 
 Within each language, repositories are ordered from most recently updated to least recently updated.
 
