@@ -13,6 +13,12 @@ Within each language, repositories are ordered from most recently created to lea
 ## Organizations
 
 - **[Keybase](https://github.com/keybase)**: iOS/macOS-focused crypto and integration tooling around the Keybase ecosystem (Founding engineer).
+  - **[client](https://github.com/keybase/client)**: Keybase Go Library, Client, Service, OS X, iOS, Android, Electron. (`9169★`, created `2015-01-11`).
+  - **[kbfs](https://github.com/keybase/kbfs)**: Keybase Filesystem (KBFS). (`1203★`, created `2016-05-26`).
+  - **[go-keychain](https://github.com/keybase/go-keychain)**: Golang keychain package for iOS and macOS. (`642★`, created `2015-09-24`).
+  - **[go-updater](https://github.com/keybase/go-updater)**: Update framework (golang). (`84★`, created `2016-03-23`).
+  - **[go-notifier](https://github.com/keybase/go-notifier)**: Cross platform system notifications in Go. (`60★`, created `2016-05-06`).
+  - **[go-kext](https://github.com/keybase/go-kext)**: A library for accessing kernel extensions on macOS. (`18★`, created `2015-10-31`).
 - **[YOLayout](https://github.com/YOLayout)**: Objective-C UI and layout tooling for Apple platform development (Used at Yelp).
 
 ## Objective-C
