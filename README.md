@@ -19,6 +19,11 @@ Within each language, repositories are ordered from most recently created to lea
   - **[go-updater](https://github.com/keybase/go-updater)**: Update framework (golang). (`84★`, created `2016-03-23`).
   - **[go-notifier](https://github.com/keybase/go-notifier)**: Cross platform system notifications in Go. (`60★`, created `2016-05-06`).
   - **[go-kext](https://github.com/keybase/go-kext)**: A library for accessing kernel extensions on macOS. (`18★`, created `2015-10-31`).
+- **[keys.pub](https://github.com/keys-pub)**: Cryptographic key management, signing, encryption, and FIDO2 tooling.
+  - **[keys](https://github.com/keys-pub/keys)**: Cryptographic key management is hard. (`918★`, created `2019-12-05`).
+  - **[app](https://github.com/keys-pub/app)**: Key management desktop app. (`129★`, created `2019-12-06`).
+  - **[go-libfido2](https://github.com/keys-pub/go-libfido2)**: libfido2 bindings for Go. (`85★`, created `2020-04-20`).
+  - **[keys-ext](https://github.com/keys-pub/keys-ext)**: Extensions and experiments. (`65★`, created `2019-12-05`).
 - **[YOLayout](https://github.com/YOLayout)**: Objective-C UI and layout tooling for Apple platform development (Used at Yelp).
 
 ## Objective-C
