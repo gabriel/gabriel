@@ -2,6 +2,8 @@
 
 Public open source projects and organizations from [github.com/gabriel](https://github.com/gabriel), grouped by language with **Swift first** (as of 2026-02-16).
 
+`2,375★` across personal repos | `12,373★` across organization repos with strong contributions
+
 Within each language, repositories are ordered from most recently created to least recently created.
 
 ## Swift
