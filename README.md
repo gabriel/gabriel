@@ -23,7 +23,6 @@ Within each language, repositories are ordered from most recently updated to lea
 - **[GHKit](https://github.com/gabriel/GHKit)**: Utilities and categories for Objective-C projects. (`260★`, updated `2025-09-25`).
 - **[GHODictionary](https://github.com/gabriel/GHODictionary)**: An ordered dictionary implementation for Objective-C. (`13★`, updated `2025-07-05`).
 - **[CaptureRecord](https://github.com/gabriel/CaptureRecord)**: An iOS SDK for user and screen recording. (`341★`, updated `2024-11-07`).
-- **[GRUnit](https://github.com/gabriel/GRUnit)**: A unit testing framework for iOS projects. (`12★`, updated `2023-12-18`).
 - **[turing-fluid-osx](https://github.com/gabriel/turing-fluid-osx)**: A macOS Turing fluid simulation demo. (`10★`, updated `2022-02-06`).
 - **[GHGLUtils](https://github.com/gabriel/GHGLUtils)**: OpenGL utilities for macOS and iOS. (`14★`, updated `2022-01-18`).
 - **[NACrypto](https://github.com/gabriel/NACrypto)**: An advanced C crypto library with notes to prefer NAChloride for most use cases. (`6★`, updated `2021-05-26`).
@@ -40,6 +39,7 @@ Within each language, repositories are ordered from most recently updated to lea
 - **[randomweb](https://github.com/gabriel/randomweb)**: A legacy repository auto-exported from Google Code. (updated `2015-03-14`).
 - **[YOCView](https://github.com/gabriel/YOCView)**: Helpers for simplifying UIView and UIViewController interactions. (`3★`, updated `2015-02-14`).
 - **[GHUIKit](https://github.com/gabriel/GHUIKit)**: A set of Objective-C UIKit convenience components. (updated `2015-02-10`).
+- **[GRUnit](https://github.com/gabriel/GRUnit)**: A unit testing framework for iOS projects. (`12★`, updated `2014-12-18`).
 - **[json-objc-perf](https://github.com/gabriel/json-objc-perf)**: Benchmark tests for Objective-C JSON frameworks. (`12★`, updated `2014-01-20`).
 
 ## Other / Unspecified
