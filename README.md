@@ -69,6 +69,6 @@ Within each language, repositories are ordered from most recently created to lea
 - **[status-back](https://github.com/gabriel/status-back)**: A Python utility for debugging connections. (`1★`, created `2010-07-09`).
 - **[shrub](https://github.com/gabriel/shrub)**: An S3 proxy for Google App Engine. (`45★`, created `2008-09-26`).
 
-## C #
+## C#
 
 - **[slickr-dotnet](https://github.com/gabriel/slickr-dotnet)**: A legacy .NET repository auto-exported from Google Code. (created `2015-03-14`).
