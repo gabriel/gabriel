@@ -8,7 +8,7 @@ Within each language, repositories are ordered from most recently created to lea
 
 ## Swift
 
-- **[swift-skills](https://github.com/gabriel/swift-skills)**: A SwiftUI pattern catalog for reusable view and architecture ideas. (created `2025-06-20`).
+- **[swift-skills](https://github.com/gabriel/swift-skills)**: A collection of Swift and SwiftUI skills. (created `2025-06-20`).
 - **[swiftui-routes](https://github.com/gabriel/swiftui-routes)**: SwiftUI routing from URLs and typed routes. (`32★`, created `2025-06-15`).
 - **[swiftui-snapshot-testing](https://github.com/gabriel/swiftui-snapshot-testing)**: A platform-independent snapshot testing framework for SwiftUI. (created `2025-06-03`).
 
