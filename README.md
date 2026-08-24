@@ -2,7 +2,7 @@
 
 I build full-stack products, developer tools, and agent infrastructure across web, backend, desktop, and mobile.
 
-Currently at [Instacart](https://github.com/instacart). Previously at [Keybase](https://github.com/keybase) and [Yelp](https://github.com/Yelp). I work across product surfaces and systems—from SwiftUI and web interfaces to Rust CLIs, Go services, and product backends—with a recurring interest in developer experience, security, and making complex systems feel simple.
+Currently at [Instacart](https://github.com/instacart). Previously at [Keybase](https://github.com/keybase) and [Yelp](https://github.com/Yelp). I work across product surfaces and systems, from SwiftUI and web interfaces to Rust CLIs, Go services, and product backends with a recurring interest in developer experience, security, and making complex systems feel simple.
 
 ## Current work
 
