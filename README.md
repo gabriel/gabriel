@@ -8,6 +8,7 @@ Currently at [Instacart](https://github.com/instacart). Previously at [Keybase](
 
 | Project | What it does | Created |
 | --- | --- | --- |
+| [Schnaps](https://getschnaps.com) | Native macOS screen measurement: find dimensions, measure gaps, and pin measurements. Built entirely in Swift. [Source](https://github.com/gabriel/Schnaps). | `2026-10-28` |
 | [REL](https://rel.me) | Local browser-agent infrastructure with an open-source [CLI, MCP integration, and Rust client](https://github.com/gabriel/rel-tools). | `2026-08-07` |
 | [swiftui-routes](https://github.com/gabriel/swiftui-routes) | Type-safe and URL-driven navigation for SwiftUI, including deep links and multi-package apps. | `2025-06-15` |
 | [swiftui-snapshot-testing](https://github.com/gabriel/swiftui-snapshot-testing) | Cross-platform snapshot testing for SwiftUI on iOS and macOS. | `2025-06-03` |
